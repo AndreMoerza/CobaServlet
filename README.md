@@ -1,2 +1,2 @@
 # CobaServlet
-Servlet, JDBC 
+Servlet, JSP, JDBC 
